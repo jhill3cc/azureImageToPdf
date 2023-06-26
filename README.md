@@ -42,6 +42,7 @@ The GeneratePdf Azure Function has the following dependencies:
 - Microsoft.Extensions.Logging
 - PdfSharpCore.Drawing
 - PdfSharpCore.Pdf
+- NULL
 
 Make sure these dependencies are installed and properly referenced in your Azure Function project.
 
